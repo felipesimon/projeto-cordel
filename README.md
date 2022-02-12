@@ -2,4 +2,4 @@
 
 Projeto realizado durante aulas do Curso em Vídeo do professor <a href="https://github.com/gustavoguanabara/">Gustavo Guanabara</a>.
 
-Foram utilizadas técnicas para realização do efeito parallax nas imagens, apresentadas no decorrer do Cordel.
+Foram utilizadas técnicas para realização de um efeito parallax simples nas imagens, apresentadas no decorrer do Cordel.
